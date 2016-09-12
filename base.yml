@@ -1,0 +1,4 @@
+# config 201609
+base:
+  registcenter:
+      ip: 10.100.13.30
