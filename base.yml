@@ -2,3 +2,4 @@
 base:
   registcenter:
       ip: 10.100.13.30
+      port: 8661
